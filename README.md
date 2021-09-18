@@ -1,0 +1,1 @@
+Example for react work with redux and with fetch
